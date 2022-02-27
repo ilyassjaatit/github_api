@@ -1,2 +1,11 @@
+# Base project
+python-environ
+
+# Fast api
 fastapi
 uvicorn[standard]
+
+PyGithub==1.55
+
+# Code quality
+pytest
