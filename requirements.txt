@@ -1,6 +1,9 @@
 # Base project
 python-environ
 
+# Database
+SQLAlchemy==1.4.31
+
 # Fast api
 fastapi
 uvicorn[standard]
